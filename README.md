@@ -1,4 +1,4 @@
-[![Fork Button](https://img.shields.io/github/forks/iemafzalhassan/full-stack_chatApp?style=social)](https://github.com/iemafzalhassan/full-stack_chatApp/fork)
+
 
 
 # Real-Time Chat Application
@@ -176,6 +176,7 @@ docker-compose logs -f
 
 
 You can now interact with the real-time chat app and start messaging
+
 
 
 
